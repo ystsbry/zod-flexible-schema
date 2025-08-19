@@ -1,0 +1,16 @@
+{
+  "name": "zod-flexible-schema",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "bun-types": "^1.2.20"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "zod": "^4.0.17"
+  }
+}
